@@ -1,0 +1,1 @@
+print("EU sou um script local para client")
