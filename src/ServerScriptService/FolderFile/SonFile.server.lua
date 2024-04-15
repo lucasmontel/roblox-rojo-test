@@ -1,0 +1,1 @@
+--[[Eu sou o arquivo que fica dentro do arquivo Pai]]
